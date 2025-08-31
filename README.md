@@ -1,4 +1,4 @@
-# 📊 Data Analytics Project – Vendor Profitability & Inventory Optimization  
+# 📊 Data Analytics Project – Vendor Performance & Inventory Optimization  
 
 ## 📌 Overview  
 This project focuses on analyzing vendor performance, profitability, and inventory efficiency using a *data-driven approach*.  
